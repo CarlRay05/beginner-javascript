@@ -79,10 +79,30 @@ teller.last = null;
 
 */
 
-let isDrawing = false;
+/*let isDrawing = false;
 let age = 18;
 const ofAge = age > 19;
 console.log(ofAge);
 
 age = 100;
-let age2 = 100;
+let age2 = 100;*/
+
+
+// const age = 100.5;
+// const name = 'Wes';
+
+// const a = 10;
+// const b = 20;
+
+// const smarties = 20;
+// const kids = 3;
+// const eachKidGets = Math.floor(smarties / kids);
+// const dadGets = smarties % kids;
+// console.log(`Each kid gets ${eachKidGets}`);
+// console.log(`Dad gets ${dadGets}`);
+
+// const person = {
+//   first: 'wes',
+//   last: 'bos',
+//   age: 50,
+// };
