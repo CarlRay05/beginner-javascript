@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* eslint-disable */
 /*
 const name = 'wes';
@@ -106,3 +107,5 @@ let age2 = 100;*/
 //   last: 'bos',
 //   age: 50,
 // };
+=======
+>>>>>>> 764f0d589e6affeda2c0b6f17874311188de0d57
